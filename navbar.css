@@ -1,5 +1,9 @@
 div{
+<<<<<<< HEAD
     background-color: blue;
+=======
+    background-color: yellow;
+>>>>>>> idea3-branch
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -9,6 +13,10 @@ a{
     text-decoration: none;
     color: white;
     font-size: 30px;
+<<<<<<< HEAD
     font-style: italic;
+=======
+  
+>>>>>>> idea3-branch
 }
 
